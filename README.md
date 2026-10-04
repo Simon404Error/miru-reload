@@ -1,5 +1,3 @@
-[English](README.md) | **简体中文** | [日本語](README-ja.md) | [うちなーぐち](README-ryu.md) | [Русский](README-ru.md) | [Беларуская](README-be.md) | [Українська](README-uk.md)
-
 <div align="center">
   <img width="300" src="./assets/icon/logo.png" alt="Miru 看板娘"/>
 </div>
